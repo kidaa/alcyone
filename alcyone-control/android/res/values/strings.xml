@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alcyone Beta</string>
+    <string name="AppTitle">Alcyone Beta</string>
+    <string name="octaveUp">Up</string>
+    <string name="octaveDown">Down</string>
+    <string name="octaveTitle">Octave</string>
+    <string name="transpositionTitle">Transposition</string>
+    <string name="transpositionUp">Up</string>
+    <string name="transpositionDown">Down</string>
+    <string name="channelTitle">MIDI Channel</string>
+    <string name="channelUp">Up</string>
+    <string name="channelDown">Down</string>
+    <string name="mnuMIDIResetTitle">MIDI Reset</string>
+    <string name="mnuAlcyoneReset">System Reset</string>
+    <string name="mnuConfigureTitle">Configure</string>
+    <string name="defaultHost">192.168.2.2</string>
+    <string name="lblHost">Alcyone Beta Hardware IP</string>
+    <string name="lblPort">Port</string>
+    <string name="defaultPort">8090</string>
+    <string name="lblPrefHost">Host</string>
+    <string name="lblPrefPort">Port</string>
+    <string name="prefReset">Reset to Current Values</string>
+    <string name="prefResetToDefault">Reset to Default Values</string>
+    <string name="prefSubmit">Submit</string>
+</resources>
